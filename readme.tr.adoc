@@ -18,7 +18,7 @@ image:https://img.shields.io/badge/Gitpod-Workspace-blue?logo=gitpodp[Gitpod, li
 
 image:images/jbang_logo.svg[JBang Logo, title="JBang Logo"]
 
-Bu içeriği diğer dillerde okumak için: :: link:readme.adoc[English], link:readme.tr.adoc[T�rk�e], link:readme.nl.adoc[Nederlands] 
+Bu içeriği dillerde okumak için: :: link:readme.adoc[English], link:readme.tr.adoc[Türkçe], link:readme.nl.adoc[Nederlands] 
 
 == Intro
 
@@ -211,7 +211,7 @@ Unlinking /usr/local/Cellar/jbang/0.13.2... 1 symlinks removed
 ```bash
 $ HOMEBREW_NO_AUTO_UPDATE=1 brew install jbang
 ...
-🍺  /usr/local/Cellar/jbang/0.8.1: 18 files, 2.9MB, built in 6 seconds
+ðŸº  /usr/local/Cellar/jbang/0.8.1: 18 files, 2.9MB, built in 6 seconds
 ```
 +
 . Verify the version.
