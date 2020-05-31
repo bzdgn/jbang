@@ -22,7 +22,7 @@ Om deze inhoud in andere talen lezen: :: link:readme.adoc[English], link:readme.
 
 == Intro
 
-Want to learn, explore or use Java instantly without setup ?
+Wil je Java leren, ontdekken of gebruiken zonder setup?
 
 Do you like Java but use python, groovy, kotlin or similar languages for your scripts ?
 

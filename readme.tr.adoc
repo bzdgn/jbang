@@ -22,7 +22,7 @@ Bu içeriği diğer dillerde okumak için: :: link:readme.adoc[English], link:re
 
 == Intro
 
-Want to learn, explore or use Java instantly without setup ?
+Java'yı kurulum olmadan öğrenmek, keşfetmek ya da kullanmak ister misin?
 
 Do you like Java but use python, groovy, kotlin or similar languages for your scripts ?
 
