@@ -18,7 +18,7 @@ image:https://img.shields.io/badge/Gitpod-Workspace-blue?logo=gitpodp[Gitpod, li
 
 image:images/jbang_logo.svg[JBang Logo, title="JBang Logo"]
 
-Read this in other languages: :: link:readme.adoc[English], link:readme.tr.adoc[Türkçe], link:readme.nl.adoc[Nederlands] 
+Om deze inhoud in andere talen lezen: :: link:readme.adoc[English], link:readme.tr.adoc[Türkçe], link:readme.nl.adoc[Nederlands] 
 
 == Intro
 
