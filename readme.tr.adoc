@@ -24,11 +24,11 @@ Bu içeriği diğer dillerde okumak için: :: link:readme.adoc[English], link:re
 
 Java'yı kurulum olmadan öğrenmek, keşfetmek ya da kullanmak ister misin?
 
-Do you like Java but use python, groovy, kotlin or similar languages for your scripts ?
+Java'dan hoşlandığın halde script yazmak için python, groovy, kotlin ve benzer dilleri mi kullanıyorsun?
 
-Ever tried out Java 10+ support for running `.java` files directly in your shell but felt it was a bit too cumbersome ?
+`.java` dosyalarını doğrudan shell'de ya da konsolda kullanmak için Java 10+ desteğini kullanmayı biraz zor mu buldun?
 
-Then try `jbang` which lets you do this:
+O zaman bunu kolaylıkla yapabileceğin `jbang`'i denemelisin:
 
 image:https://asciinema.org/a/AVwA19yijKRNKEO0bJENN2ME3.svg[link=https://asciinema.org/a/AVwA19yijKRNKEO0bJENN2ME3?autoplay=true&speed=2&theme=solarized-dark]
 
@@ -49,7 +49,7 @@ hello made with jbang
   -V, --version    Print version information and exit.
 ----
 
-Instant cli app generated built using java and picocli as a dependency that was fetched as needed for the compilation and execution.
+Anlık cli uygulaması, Java kullanılarak oluşturuldu. Ayrıca derleme ve çalıştırmada gerekli olduğu için picocli de dependency olarak eklendi.
 
 toc::[]
 
